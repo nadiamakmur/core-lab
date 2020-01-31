@@ -1,0 +1,41 @@
+.bigbox{
+  padding: 20px;
+  height: auto;
+  width: 350px;
+  border-style: solid;
+  border-width: 3px;
+  margin: auto;
+}
+
+.one{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 5px;
+  padding: 2px;
+}
+
+.two{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  text-align: center;
+  line-height: 6px;
+}
+
+.list{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  float: left;
+}
+
+.amount{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  text-align: right;
+}
+
+.final{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: right;
+}

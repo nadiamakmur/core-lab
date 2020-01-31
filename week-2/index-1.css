@@ -1,0 +1,86 @@
+.bigbox{
+  padding: 20px;
+  height: auto;
+  width: 400px;
+  background-color: #fffef3;
+  margin: auto;
+  }
+
+.aesopimg{
+  width: 180px;
+  text-align: left;
+}
+
+.one{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  line-height: 3px;
+}
+
+.two{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  line-height: 3px;
+}
+
+.qty{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  float: left;
+  width: 10px;
+}
+
+.price{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  float: right;
+}
+
+.item{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+  width: 130px;
+  margin-left: 100px;
+}
+
+.three{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.three2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.tax{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.melanie{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+}
+
+.please{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+  width: 350px;
+}
+
+.ref{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+}
+
+.barcode{
+  width: 200px;
+}

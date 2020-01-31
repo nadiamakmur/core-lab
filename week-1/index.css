@@ -1,0 +1,301 @@
+.bigbox{
+  padding: 20px;
+  height: auto;
+  width: 300px;
+  margin: auto;
+  border-style: solid;
+  border-width: 3px;
+  }
+
+.first{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: center;
+}
+
+.reprint{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: center;
+  color: blue;
+}
+
+.second{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.second2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.third{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.third2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.creditsale{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: left;
+  color: blue;
+}
+
+.fourth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.fourth2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.fifth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.fifth2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.sixth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.sixth2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.seventh{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.seventh2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.eighth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.eighth2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.ninth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.ninth2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.tenth{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.subtot{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: left;
+  color: blue;
+}
+
+.eleven{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.eleven2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.total{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: left;
+  color: blue;
+}
+
+.usd{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  text-align: right;
+  color: blue;
+}
+
+.twelve{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.twelve2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.thirteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.thirteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.fourteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.fourteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.fifteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.fifteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.sixteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.sixteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.seventeen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.seventeen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.eighteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.eighteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.ninteen{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+}
+
+.ninteen2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+}
+
+.twenty{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.twenty2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.twentyone{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.twentyone2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.twentytwo{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.twentytwo2{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.customer{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  text-align: center;
+}

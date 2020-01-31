@@ -1,0 +1,56 @@
+.bigbox{
+  padding: 20px;
+  height: auto;
+  width: 400px;
+  border-style: solid;
+  border-width: 3px;
+  margin: auto;
+}
+
+.trader{
+  width: 350px;
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.one{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  text-align: center;
+  line-height: 3px;
+}
+
+.list{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  float: left;
+}
+
+.amount{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  text-align: right;
+}
+
+.total{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 18px;
+  float: left;
+  line-height: 12px;
+}
+
+.approve{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  text-align: left;
+  line-height: 4px;
+}
+
+.thanks{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  text-align: center;
+  line-height: 4px;
+}

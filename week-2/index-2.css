@@ -1,0 +1,68 @@
+.bigbox{
+  padding: 20px;
+  height: auto;
+  width: 400px;
+  border-style: solid;
+  border-width: 3px;
+  margin: auto;
+}
+
+.barcelona{
+  width: 250px;
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.one{
+  text-align: center;
+  font-size: 13px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 6px;
+}
+
+.two{
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 6px;
+}
+
+.tbl{
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  float: left;
+}
+
+.gst{
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  float: right;
+}
+
+.chk{
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  line-height: 6px;
+}
+
+.three{
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  float: left;
+}
+
+.three2{
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  text-align: right;
+}
+
+.total{
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  text-align: right;
+}
