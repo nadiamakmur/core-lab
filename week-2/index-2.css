@@ -1,10 +1,25 @@
-.bigbox{
-  padding: 20px;
-  height: auto;
+.upper-left-box{
+  border: 1px solid black;
   width: 400px;
-  border-style: solid;
-  border-width: 3px;
-  margin: auto;
+  height: 400px;
+}
+
+.upper-right-box{
+  border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+
+.middle-box{
+  border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 439px;
+  bottom: -200px;
 }
 
 .barcelona{

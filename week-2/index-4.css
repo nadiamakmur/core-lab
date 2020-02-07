@@ -1,0 +1,60 @@
+.upper-box{
+  border: 1px solid black;
+  width: 1260px;
+  height: 250px;
+  }
+
+  .lower-box{
+    border: 1px solid black;
+    width: 1260px;
+    height: 250px;
+    position: absolute;
+    bottom: 0px;
+    }
+
+.one{
+  font-family: 'VT323', monospace;
+  font-size: 20px;
+  text-align: center;
+  line-height: 5px;
+}
+
+.two{
+  font-family: 'VT323', monospace;
+  font-size: 16px;
+  text-align: center;
+  line-height: 5px;
+}
+
+.MBTA{
+  font-family: 'VT323', monospace;
+  font-size: 35px;
+  text-align: center;
+  line-height: 1px;
+}
+
+.three{
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  text-align: left;
+  line-height: 5px;
+}
+
+.list{
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  float: left;
+}
+
+.amount{
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  text-align: right;
+}
+
+.five{
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  text-align: center;
+  line-height: 5px;
+}

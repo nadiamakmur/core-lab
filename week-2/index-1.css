@@ -1,10 +1,28 @@
-.bigbox{
-  padding: 20px;
-  height: auto;
+.box1{
+  height: 290px;
   width: 400px;
-  background-color: #fffef3;
-  margin: auto;
+  border: 1px solid black;
+  position: absolute;
+  top: 500px;
   }
+
+.box2{
+  height: 290px;
+  width: 400px;
+  border: 1px solid black;
+  position: absolute;
+  top: 500px;
+  left: 417px;
+  }
+
+  .box3{
+    height: 290px;
+    width: 400px;
+    border: 1px solid black;
+    position: absolute;
+    top: 500px;
+    left: 825px;
+    }
 
 .aesopimg{
   width: 180px;
