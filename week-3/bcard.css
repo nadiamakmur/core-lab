@@ -1,0 +1,88 @@
+.logo{
+  width: 80px;
+  height: auto;
+  display: block;
+  margin: auto;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+
+.logo:hover{
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+.fullname{
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+}
+
+.desc{
+  font-size: 15px;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
+  margin: 10px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  border: 1px solid white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+li{
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 40px;
+  padding: 10px;
+}
+
+.buttons{
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.buttons:hover{
+  background: black;
+  color: white;
+}
+
+img{
+  width: 400px;
+  height: auto;
+  margin: 0px;
+  padding: 10px;
+}
+
+img:hover{
+  opacity: 70%;
+}
+
+.footer{
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  border: 1px solid white;
+}
+
+
+/* .about{
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  float: left;
+  padding: 10px;
+  margin: 15px;
+} */
